@@ -11,7 +11,7 @@
 module load bioinfo-tools bwa samtools
 
 path=/home/xiyu0787/genome_analysis/data/RNA_trimmed_reads/
-cd $HOME/genome_analysis/analyses/05_rna_mapping/01_bwa/
+cd $HOME/genome_analysis/analyses/05_rna_mapping/01-bwa/
 
 bwa index -p lfts ~/genome_analysis/analyses/01_genome_assembly/01-lfts-pacbio/lfts.contigs.fasta
 

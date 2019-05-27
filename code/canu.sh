@@ -9,8 +9,7 @@
 #SBATCH --mail-user Xiao.Yuan.0787@student.uu.se
 
 # Load modules
-module load bioinfo-tools
-module load canu
+module load bioinfo-tools canu
 
 # Your commands
 canu \

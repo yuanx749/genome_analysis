@@ -1,0 +1,146 @@
+Category,ID,Gene,Function
+ATP synthase,LFTS_00930,ATPA,Produces ATP from ADP in the presence of a proton gradient across the membrane. The alpha chain is a regulatory subunit (By similarity)
+ATP synthase,LFTS_00926,ATPB,it plays a direct role in the translocation of protons across the membrane (By similarity)
+ATP synthase,LFTS_00933,ATPC,Produces ATP from ADP in the presence of a proton gradient across the membrane (By similarity)
+ATP synthase,LFTS_00932,ATPD,Produces ATP from ADP in the presence of a proton gradient across the membrane. The catalytic sites are hosted primarily by the beta subunits (By similarity)
+ATP synthase,LFTS_00928,ATPF,F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation (By similarity)
+ATP synthase,LFTS_00931,ATPG,Produces ATP from ADP in the presence of a proton gradient across the membrane. The gamma chain is believed to be important in regulating ATPase activity and the flow of protons through the CF(0) complex (By similarity)
+Carbon fixation,LFTS_00780,FORA,pyruvate flavodoxin ferredoxin oxidoreductase
+Carbon fixation,LFTS_00777,FORE,Ferredoxin
+Carbon fixation,LFTS_02439,FUMC,fumarate hydratase class II
+Carbon fixation,LFTS_01771,MDH,Catalyzes the reversible oxidation of malate to oxaloacetate (By similarity)
+Carbon fixation,LFTS_01475,SUCC,Succinyl-CoA synthetase subunit beta
+Carbon fixation,LFTS_01476,SUCD,Succinyl-CoA ligase ADP-forming subunit alpha
+Chemotaxis,LFTS_01094,CHEA,CheA signal transduction histidine kinase
+Chemotaxis,LFTS_01095,CHEB,catalyzes the demethylation of specific methylglutamate residues introduced into the chemoreceptors (methyl-accepting chemotaxis proteins) by CheR (By similarity)
+Chemotaxis,LFTS_01692,CHEV,response regulator receiver modulated chew protein
+Chemotaxis,LFTS_01097,CHEW1,chew protein
+Chemotaxis,LFTS_01093,CHEY,response regulator receiver protein
+Chemotaxis,LFTS_01098,MOTA,MotA TolQ exbB proton channel
+Chemotaxis,LFTS_01099,MOTB,ompa motb domain protein
+Metal resistance,LFTS_01643,ARSB,arsenical pump membrane protein
+Metal resistance,LFTS_01644,ARSC,Protein tyrosine phosphatase
+Metal resistance,LFTS_02161,ARSM,methyltransferase, type 11
+Metal resistance,LFTS_00428,ARSR,Transcriptional regulator, arsr family
+Metal resistance,LFTS_01188,COPB,p-type ATPase
+Metal resistance,LFTS_01814,CUSA,Heavy metal efflux pump, CzcA
+Metal resistance,LFTS_00757,CUSB,Efflux transporter rnd family, mfp subunit
+Metal resistance,LFTS_01033,CUSB,Efflux transporter rnd family, mfp subunit
+Metal resistance,LFTS_01815,CUSB,Efflux transporter rnd family, mfp subunit
+Metal resistance,LFTS_02638,CUSB,Efflux transporter rnd family, mfp subunit
+Metal resistance,LFTS_01573,CUTA,tolerance protein
+Metal resistance,LFTS_01034,CZCA,Heavy metal efflux pump, CzcA
+Metal resistance,LFTS_02637,CZCA,Heavy metal efflux pump, CzcA
+Metal resistance,LFTS_00357,CZCD,cation diffusion facilitator family transporter
+Metal resistance,LFTS_00219,MERA,pyridine nucleotide-disulfide oxidoreductase
+Metal resistance,LFTS_01448,MERA,mercuric reductase
+Metal resistance,LFTS_02028,MERA,mercuric reductase
+Motility,LFTS_01090,FLEN,site-determining protein
+Motility,LFTS_00741,FLEQ,sigma54 specific transcriptional regulator Fis family
+Motility,LFTS_01064,FLEQ,two component, sigma54 specific, transcriptional regulator, Fis family
+Motility,LFTS_01068,FLER,sigma54 specific transcriptional regulator Fis family
+Motility,LFTS_01066,FLES,Histidine kinase
+Motility,LFTS_01069,FLGB,Structural component of flagellum, the bacterial motility apparatus. Part of the rod structure of flagellar basal body (By similarity)
+Motility,LFTS_01070,FLGC,flagellar basal-body rod protein flgc
+Motility,LFTS_01079,FLGD,Flagellar hook capping protein
+Motility,LFTS_01080,FLGE,flagellar hook protein, FlgE
+Motility,LFTS_00669,FLGF,flagellar basal-body rod protein
+Motility,LFTS_00670,FLGF,flagellar basal-body rod protein
+Motility,LFTS_00668,FLGG,flagellar basal-body rod protein FlgG
+Motility,LFTS_00665,FLGI,Assembles around the rod to form the L-ring and probably protects the motor basal body from shearing forces during rotation (By similarity)
+Motility,LFTS_00660,FLGK,flagellar hook-associated protein
+Motility,LFTS_00659,FLGL,flagellar hook-associated protein
+Motility,LFTS_01088,FLHA,Flagellar biosynthesis protein flha
+Motility,LFTS_01087,FLHB,flagellar biosynthetic protein flhB
+Motility,LFTS_01103,FLHB2,flagellar
+Motility,LFTS_01089,FLHF,flagellar biosynthesis regulator FlhF
+Motility,LFTS_01091,FLIA,Sigma factors are initiation factors that promote the attachment of RNA polymerase to specific initiation sites and are then released (By similarity)
+Motility,LFTS_00656,FLIC,Flagellin
+Motility,LFTS_00663,FLIC,Flagellin
+Motility,LFTS_00655,FLID,flagellar hook-associated
+Motility,LFTS_01071,FLIE,flagellar hook-basal body complex protein fliE
+Motility,LFTS_01072,FLIF,The M ring may be actively involved in energy transduction (By similarity)
+Motility,LFTS_01073,FLIG,FliG is one of three proteins (FliG, FliN, FliM) that forms the rotor-mounted switch complex (C ring), located at the base of the basal body. This complex interacts with the CheY and CheZ chemotaxis proteins, in addition to contacting components of the motor that determine the direction of flagellar rotation (By similarity)
+Motility,LFTS_01075,FLII,Flagellum-specific ATP synthase
+Motility,LFTS_01081,FLIL,Flagellar basal body-associated protein FliL
+Motility,LFTS_00639,FLIM,FliM is one of three proteins (FliG, FliN, FliM) that forms the rotor-mounted switch complex (C ring), located at the base of the basal body. This complex interacts with the CheY and CheZ chemotaxis proteins, in addition to contacting components of the motor that determine the direction of flagellar rotation (By similarity)
+Motility,LFTS_01082,FLIN,Flagellar motor switch protein
+Motility,LFTS_01084,FLIP,Flagellar biosynthetic protein FliP
+Motility,LFTS_01085,FLIQ,Flagellar biosynthetic protein fliq
+Motility,LFTS_01086,FLIR,Role in flagellar biosynthesis (By similarity)
+Motility,LFTS_00657,FLIW,Binds to the C-terminal region of flagellin, which is implicated in polymerization, and participates in the assembly of the flagellum (By similarity)
+NADH dehydrogenase,LFTS_00455,NDH,NADH dehydrogenase
+NADH dehydrogenase,LFTS_00126,NDHF,NADH dehydrogenase
+NADH dehydrogenase,LFTS_00134,NDHF,NADH dehydrogenase
+NADH dehydrogenase,LFTS_00637,NDHF,NADH dehydrogenase subunit 5
+NADH dehydrogenase,LFTS_02092,NDHF,NADH dehydrogenase
+NADH dehydrogenase,LFTS_01576,NUOA,NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain
+NADH dehydrogenase,LFTS_01577,NUOB,NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)
+NADH dehydrogenase,LFTS_01578,NUOC,NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain
+NADH dehydrogenase,LFTS_01579,NUOD,NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)
+NADH dehydrogenase,LFTS_00395,NUOE,NADH dehydrogenase (Ubiquinone), 24 kDa subunit
+NADH dehydrogenase,LFTS_01580,NUOE,NADH dehydrogenase (Ubiquinone), 24 kDa subunit
+NADH dehydrogenase,LFTS_02367,NUOF,NADH dehydrogenase
+NADH dehydrogenase,LFTS_02685,NUOF,NADH dehydrogenase
+NADH dehydrogenase,LFTS_01582,NUOF-1,NADH dehydrogenase
+NADH dehydrogenase,LFTS_01583,NUOG,oxidoreductase
+NADH dehydrogenase,LFTS_01584,NUOH,NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient. This subunit may bind ubiquinone (By similarity)
+NADH dehydrogenase,LFTS_01585,NUOI,NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)
+NADH dehydrogenase,LFTS_01586,NUOJ,NADH dehydrogenase subunit j
+NADH dehydrogenase,LFTS_01587,NUOK,NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)
+NADH dehydrogenase,LFTS_01588,NUOL,subunit l
+NADH dehydrogenase,LFTS_01589,NUOM,subunit m
+NADH dehydrogenase,LFTS_01590,NUON,NDH-1 shuttles electrons from NADH, via FMN and iron- sulfur (Fe-S) centers, to quinones in the respiratory chain. The immediate electron acceptor for the enzyme in this species is believed to be ubiquinone. Couples the redox reaction to proton translocation (for every two electrons transferred, four hydrogen ions are translocated across the cytoplasmic membrane), and thus conserves the redox energy in a proton gradient (By similarity)
+Nitrogen fixation,LFTS_00638,NIFA,transcriptional regulator, NifA subfamily, Fis Family
+Nitrogen fixation,LFTS_02040,NIFB,Nitrogenase cofactor biosynthesis protein NifB
+Nitrogen fixation,LFTS_02034,NIFD,Nitrogenase protein alpha chain
+Nitrogen fixation,LFTS_02036,NIFE,nitrogenase mofe cofactor biosynthesis protein nife
+Nitrogen fixation,LFTS_02033,NIFH,The key enzymatic reactions in nitrogen fixation are catalyzed by the nitrogenase complex, which has 2 components the iron protein and the molybdenum-iron protein (By similarity)
+Nitrogen fixation,LFTS_02035,NIFK,nitrogenase molybdenum-iron protein beta chain
+Nitrogen fixation,LFTS_02037,NIFN,Nitrogenase molybdenum-iron cofactor biosynthesis protein NifN
+Nitrogen fixation,LFTS_02045,NIFS,Cysteine desulfurase
+Nitrogen fixation,LFTS_02060,NIFV,homocitrate synthase
+Nitrogen fixation,LFTS_02055,NIFW,May protect the nitrogenase Fe-Mo protein from oxidative damage (By similarity)
+Nitrogen fixation,LFTS_02038,NIFX,Nitrogen fixation protein NifX
+Nitrogen fixation,LFTS_02048,NIFZ,nifz family
+Nitrogen fixation,LFTS_00906,NTRX,sigma54 specific transcriptional regulator Fis family
+Nitrogen fixation,LFTS_00905,NTRY,Histidine kinase
+Oxidative stress response,LFTS_00438,AHPC,Alkyl hydroperoxide reductase
+Oxidative stress response,LFTS_01211,BCP,alkyl hydroperoxide reductase Thiol specific antioxidant Mal allergen
+Oxidative stress response,LFTS_01351,BCP,alkyl hydroperoxide reductase Thiol specific antioxidant Mal allergen
+Oxidative stress response,LFTS_01851,COBS,Joins Ado-cobinamide-GDP and alpha-ribazole to generate adenosylcobalamin (Ado-cobalamin) (By similarity)
+Oxidative stress response,LFTS_02293,DEGP,protease
+Oxidative stress response,LFTS_01861,ICD,Catalyzes the oxidation of 3-carboxy-2-hydroxy-4- methylpentanoate (3-isopropylmalate) to 3-carboxy-4-methyl-2- oxopentanoate. The product decarboxylates to 4-methyl-2 oxopentanoate (By similarity)
+Oxidative stress response,LFTS_00440,PERR,regulator Fur family
+Oxidative stress response,LFTS_01745,TRXA,Thioredoxin
+Oxidative stress response,LFTS_00738,TRXB,thioredoxin reductase
+Oxidative stress response,LFTS_01193,TRXC,K03672 thioredoxin 2 EC 1.8.1.8
+Polysaccharide,LFTS_00628,BCSA,Cellulose synthase catalytic subunit
+Polysaccharide,LFTS_00630,BCSA,Cellulose synthase catalytic subunit
+Polysaccharide,LFTS_01629,BCSA,Cellulose synthase catalytic subunit
+Polysaccharide,LFTS_00627,BCSB,Cellulose synthase regulator protein
+Polysaccharide,LFTS_01628,BCSB,Cellulose synthase regulator protein
+Polysaccharide,LFTS_00631,BCSC,cellulose synthase
+Polysaccharide,LFTS_00632,BCSC,cellulose synthase
+Polysaccharide,LFTS_01627,BCSC,cellulose synthase
+Polysaccharide,LFTS_00626,BCSZ,endo-1,4-d-glucanase (EC 3.2.1.4)
+Polysaccharide,LFTS_01774,LPTB,ABC transporter
+Polysaccharide,LFTS_02223,LPTF,permease YjgP YjgQ family protein
+Polysaccharide,LFTS_02222,LPTG,permease YjgP YjgQ family protein
+Polysaccharide,LFTS_02169,LPXA,Involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell (By similarity)
+Polysaccharide,LFTS_02237,LPXA,Involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell (By similarity)
+Polysaccharide,LFTS_02172,LPXB,Condensation of UDP-2,3-diacylglucosamine and 2,3- diacylglucosamine-1-phosphate to form lipid A disaccharide, a precursor of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell (By similarity)
+Polysaccharide,LFTS_00810,LPXC,involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell (By similarity)
+Polysaccharide,LFTS_02167,LPXD,Catalyzes the N-acylation of UDP-3-O-acylglucosamine using 3-hydroxyacyl-ACP as the acyl donor. Is involved in the biosynthesis of lipid A, a phosphorylated glycolipid that anchors the lipopolysaccharide to the outer membrane of the cell (By similarity)
+Polysaccharide,LFTS_02176,LPXK,Transfers the gamma-phosphate of ATP to the 4'-position of a tetraacyldisaccharide 1-phosphate intermediate (termed DS-1- P) to form tetraacyldisaccharide 1,4'-bis-phosphate (lipid IVA) (By similarity)
+Polysaccharide,LFTS_00259,OSTA,Organic solvent tolerance protein
+Polysaccharide,LFTS_02118,PELA,signal peptide protein
+Polysaccharide,LFTS_02123,PELA,signal peptide protein
+Polysaccharide,LFTS_00113,RFAF,heptosyltransferase ii
+Polysaccharide,LFTS_02186,RFAF,heptosyltransferase ii
+Polysaccharide,LFTS_02189,RFAF,heptosyltransferase ii
+Polysaccharide,LFTS_01378,RFBA,Catalyzes the formation of dTDP-glucose, from dTTP and glucose 1-phosphate, as well as its pyrophosphorolysis (By similarity)
+Polysaccharide,LFTS_01377,RFBB,dTDP-glucose 4,6-dehydratase
+Polysaccharide,LFTS_01379,RFBC,Dtdp-4-dehydrorhamnose 3,5-epimerase
+Polysaccharide,LFTS_00118,RFBD,(ABC) transporter
+Polysaccharide,LFTS_02520,RFBD,Dtdp-4-dehydrorhamnose reductase

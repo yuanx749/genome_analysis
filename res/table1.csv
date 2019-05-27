@@ -1,0 +1,131 @@
+Category,ID,Gene,Function
+ATP synthase,LFTS_00930,atpA,ATP synthase subunit alpha
+ATP synthase,LFTS_00926,atpB,ATP synthase subunit a
+ATP synthase,LFTS_00933,atpC,ATP synthase epsilon chain
+ATP synthase,LFTS_00929,atpD,ATP synthase subunit delta
+ATP synthase,LFTS_00932,atpD1,ATP synthase subunit beta 1
+ATP synthase,LFTS_00927,atpE,ATP synthase subunit c%2C sodium ion specific
+ATP synthase,LFTS_00928,atpF,ATP synthase subunit b%2C sodium ion specific
+ATP synthase,LFTS_00931,atpG,ATP synthase gamma chain
+Carbon fixation,LFTS_02439,fumC,Fumarate hydratase class II
+Carbon fixation,LFTS_01771,mdh,Malate dehydrogenase
+Carbon fixation,LFTS_01467,sucC_1,Succinate--CoA ligase [GDP-forming] subunit beta
+Carbon fixation,LFTS_01475,sucC_2,Succinate--CoA ligase [ADP-forming] subunit beta
+Carbon fixation,LFTS_01468,sucD_1,Succinate--CoA ligase [ADP-forming] subunit alpha
+Carbon fixation,LFTS_01476,sucD_2,Succinate--CoA ligase [ADP-forming] subunit alpha
+Chemotaxis,LFTS_01094,cheA,Chemotaxis protein CheA
+Chemotaxis,LFTS_01095,cheB,Chemotaxis response regulator protein-glutamate methylesterase
+Chemotaxis,LFTS_01092,cheR,Chemotaxis protein methyltransferase
+Chemotaxis,LFTS_01692,cheV,Chemotaxis protein CheV
+Chemotaxis,LFTS_01097,cheW,Chemotaxis protein CheW
+Chemotaxis,LFTS_01093,cheY,Chemotaxis protein CheY
+Chemotaxis,LFTS_00464,mcp3,Methyl-accepting chemotaxis protein 3
+Chemotaxis,LFTS_02326,mcpA,Methyl-accepting chemotaxis protein McpA
+Chemotaxis,LFTS_01050,mcpH,Methyl-accepting chemotaxis protein McpH
+Chemotaxis,LFTS_01096,mcpP,Methyl-accepting chemotaxis protein McpP
+Chemotaxis,LFTS_01099,motB,Motility protein B
+Metal resistance,LFTS_01643,arsB,Arsenical pump membrane protein
+Metal resistance,LFTS_01644,arsC,Glutaredoxin arsenate reductase
+Metal resistance,LFTS_01188,copA,Copper-exporting P-type ATPase A
+Metal resistance,LFTS_01814,cusA,Cation efflux system protein CusA
+Metal resistance,LFTS_00757,cusB_1,Cation efflux system protein CusB
+Metal resistance,LFTS_01033,cusB_2,Cation efflux system protein CusB
+Metal resistance,LFTS_01815,cusB_3,Cation efflux system protein CusB
+Metal resistance,LFTS_02638,cusB_4,Cation efflux system protein CusB
+Metal resistance,LFTS_00362,cusF_1,Cation efflux system protein CusF
+Metal resistance,LFTS_01813,cusF_2,Cation efflux system protein CusF
+Metal resistance,LFTS_01335,cusS,Sensor kinase CusS
+Metal resistance,LFTS_01573,cutA,Divalent-cation tolerance protein CutA
+Metal resistance,LFTS_00350,czcA_1,Cobalt-zinc-cadmium resistance protein CzcA
+Metal resistance,LFTS_00351,czcA_2,Cobalt-zinc-cadmium resistance protein CzcA
+Metal resistance,LFTS_00743,czcA_3,Cobalt-zinc-cadmium resistance protein CzcA
+Metal resistance,LFTS_00758,czcA_4,Cobalt-zinc-cadmium resistance protein CzcA
+Metal resistance,LFTS_01034,czcA_5,Cobalt-zinc-cadmium resistance protein CzcA
+Metal resistance,LFTS_02400,czcA_6,Cobalt-zinc-cadmium resistance protein CzcA
+Metal resistance,LFTS_02637,czcA_7,Cobalt-zinc-cadmium resistance protein CzcA
+Metal resistance,LFTS_00740,czcB_1,Cobalt-zinc-cadmium resistance protein CzcB
+Metal resistance,LFTS_02401,czcB_2,Cobalt-zinc-cadmium resistance protein CzcB
+Metal resistance,LFTS_00353,czcC,Cobalt-zinc-cadmium resistance protein CzcC
+Metal resistance,LFTS_00357,czcD,Cadmium%2C cobalt and zinc/H(+)-K(+) antiporter
+Metal resistance,LFTS_00219,merA_1,Mercuric reductase
+Metal resistance,LFTS_01448,merA_2,Mercuric reductase
+Metal resistance,LFTS_02028,merA_3,Mercuric reductase
+Metal resistance,LFTS_02027,merC,Mercuric resistance protein MerC
+Motility,LFTS_01070,flgC,Flagellar basal-body rod protein FlgC
+Motility,LFTS_01079,flgD,Basal-body rod modification protein FlgD
+Motility,LFTS_01080,flgE,Flagellar hook protein FlgE
+Motility,LFTS_00668,flgG_1,Flagellar basal-body rod protein FlgG
+Motility,LFTS_00670,flgG_2,Flagellar basal-body rod protein FlgG
+Motility,LFTS_00665,flgI,Flagellar P-ring protein
+Motility,LFTS_00660,flgK,Flagellar hook-associated protein 1
+Motility,LFTS_01088,flhA,Flagellar biosynthesis protein FlhA
+Motility,LFTS_01087,flhB_1,Flagellar biosynthetic protein FlhB
+Motility,LFTS_01103,flhB_2,Flagellar biosynthetic protein FlhB
+Motility,LFTS_01089,flhF,Flagellar biosynthesis protein FlhF
+Motility,LFTS_01091,fliA,RNA polymerase sigma factor FliA
+Motility,LFTS_00655,fliD,B-type flagellar hook-associated protein 2
+Motility,LFTS_01071,fliE,Flagellar hook-basal body complex protein FliE
+Motility,LFTS_01072,fliF,Flagellar M-ring protein
+Motility,LFTS_01073,fliG,Flagellar motor switch protein FliG
+Motility,LFTS_00639,fliM,Flagellar motor switch protein FliM
+Motility,LFTS_01082,fliN,Flagellar motor switch protein FliN
+Motility,LFTS_01084,fliP,Flagellar biosynthetic protein FliP
+Motility,LFTS_00654,fliS,Flagellar protein FliS
+Motility,LFTS_00657,fliW,Flagellar assembly factor FliW
+NADH dehydrogenase,LFTS_01576,ndhC,NAD(P)H-quinone oxidoreductase subunit 3
+NADH dehydrogenase,LFTS_01577,nuoB,NADH-quinone oxidoreductase subunit B
+NADH dehydrogenase,LFTS_02707,nuoF,NADH-quinone oxidoreductase subunit F
+NADH dehydrogenase,LFTS_01584,nuoH,NADH-quinone oxidoreductase subunit H
+NADH dehydrogenase,LFTS_01585,nuoI,NADH-quinone oxidoreductase subunit I
+NADH dehydrogenase,LFTS_01586,nuoJ,NADH-quinone oxidoreductase subunit J
+NADH dehydrogenase,LFTS_00126,nuoL_1,NADH-quinone oxidoreductase subunit L
+NADH dehydrogenase,LFTS_00134,nuoL_2,NADH-quinone oxidoreductase subunit L
+NADH dehydrogenase,LFTS_00637,nuoL_3,NADH-quinone oxidoreductase subunit L
+NADH dehydrogenase,LFTS_01588,nuoL_4,NADH-quinone oxidoreductase subunit L
+NADH dehydrogenase,LFTS_02092,nuoL_5,NADH-quinone oxidoreductase subunit L
+NADH dehydrogenase,LFTS_01589,nuoM,NADH-quinone oxidoreductase subunit M
+NADH dehydrogenase,LFTS_01590,nuoN,NADH-quinone oxidoreductase subunit N
+Nitrogen fixation,LFTS_00638,nifA,Nif-specific regulatory protein
+Nitrogen fixation,LFTS_02040,nifB,FeMo cofactor biosynthesis protein NifB
+Nitrogen fixation,LFTS_02034,nifD_1,Nitrogenase molybdenum-iron protein alpha chain
+Nitrogen fixation,LFTS_02036,nifD_2,Nitrogenase molybdenum-iron protein alpha chain
+Nitrogen fixation,LFTS_02033,nifH,Nitrogenase iron protein
+Nitrogen fixation,LFTS_02035,nifK_1,Nitrogenase molybdenum-iron protein beta chain
+Nitrogen fixation,LFTS_02037,nifK_2,Nitrogenase molybdenum-iron protein beta chain
+Nitrogen fixation,LFTS_00137,nifL,Nitrogen fixation regulatory protein
+Nitrogen fixation,LFTS_02045,nifS,Cysteine desulfurase NifS
+Nitrogen fixation,LFTS_02055,nifW2,Nitrogenase-stabilizing/protective protein NifW 2
+Oxidative stress response,LFTS_01211,bcp_1,Putative peroxiredoxin bcp
+Oxidative stress response,LFTS_01351,bcp_2,Putative peroxiredoxin bcp
+Oxidative stress response,LFTS_01851,cobS,Adenosylcobinamide-GDP ribazoletransferase
+Oxidative stress response,LFTS_01166,degP,Periplasmic serine endoprotease DegP
+Oxidative stress response,LFTS_01861,icd_1,Isocitrate dehydrogenase [NADP]
+Oxidative stress response,LFTS_01862,icd_2,Isocitrate dehydrogenase [NADP]
+Oxidative stress response,LFTS_00440,perR,Peroxide-responsive repressor PerR
+Oxidative stress response,LFTS_01193,trxA_1,Thioredoxin 1
+Oxidative stress response,LFTS_01745,trxA_2,Thioredoxin
+Oxidative stress response,LFTS_00738,trxB,Thioredoxin reductase
+Polysaccharide,LFTS_00628,bcsA_1,Cellulose synthase catalytic subunit [UDP-forming]
+Polysaccharide,LFTS_00630,bcsA_2,Cellulose synthase catalytic subunit [UDP-forming]
+Polysaccharide,LFTS_01629,bcsA_3,Cellulose synthase catalytic subunit [UDP-forming]
+Polysaccharide,LFTS_01628,bcsB,Cyclic di-GMP-binding protein
+Polysaccharide,LFTS_00626,bcsZ,Endoglucanase
+Polysaccharide,LFTS_01773,lptA,Lipopolysaccharide export system protein LptA
+Polysaccharide,LFTS_01774,lptB,Lipopolysaccharide export system ATP-binding protein LptB
+Polysaccharide,LFTS_00259,lptD,LPS-assembly protein LptD
+Polysaccharide,LFTS_02169,lpxA_1,Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+Polysaccharide,LFTS_02237,lpxA_2,Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+Polysaccharide,LFTS_02172,lpxB,Lipid-A-disaccharide synthase
+Polysaccharide,LFTS_00810,lpxC,UDP-3-O-acyl-N-acetylglucosamine deacetylase
+Polysaccharide,LFTS_02167,lpxD,UDP-3-O-acylglucosamine N-acyltransferase
+Polysaccharide,LFTS_00944,lpxH,UDP-2%2C3-diacylglucosamine hydrolase
+Polysaccharide,LFTS_02176,lpxK,Tetraacyldisaccharide 4'-kinase
+Polysaccharide,LFTS_02177,lpxL,Lipid A biosynthesis lauroyltransferase
+Polysaccharide,LFTS_02179,rfaC_1,Lipopolysaccharide heptosyltransferase 1
+Polysaccharide,LFTS_02180,rfaC_2,Lipopolysaccharide heptosyltransferase 1
+Polysaccharide,LFTS_02186,rfaF,ADP-heptose--LPS heptosyltransferase 2
+Polysaccharide,LFTS_00648,rfaQ_1,Lipopolysaccharide core heptosyltransferase RfaQ
+Polysaccharide,LFTS_02189,rfaQ_2,Lipopolysaccharide core heptosyltransferase RfaQ
+Polysaccharide,LFTS_01378,rfbA,Glucose-1-phosphate thymidylyltransferase 1
+Polysaccharide,LFTS_01379,rfbC,dTDP-4-dehydrorhamnose 3%2C5-epimerase
+Polysaccharide,LFTS_01454,rfbD,UDP-galactopyranose mutase

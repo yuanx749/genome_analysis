@@ -6,14 +6,14 @@
 #SBATCH -t 12:00:00
 #SBATCH -J trimmomatic
 #SBATCH --mail-type=ALL
+#SBATCH --mail-user Xiao.Yuan.0787@student.uu.se
 
 module load bioinfo-tools trimmomatic
 
 for name in ERR2036629 ERR2036630 ERR2036631 ERR2036632 ERR2036633 \
 ERR2117288 ERR2117289 ERR2117290 ERR2117291 ERR2117292
 do
-java -jar $TRIMMOMATIC_HOME/trimmomatic.jar PE -threads 1 \
-# -trimlog ~/genome_analysis/analyses/04_rna_preprocessing/02-trimmomatic/$name.txt \
+java -jar $TRIMMOMATIC_HOME/trimmomatic.jar PE -threads 2 \
 ~/genome_analysis/data/RNA_raw_data/${name}_1.fastq.gz \
 ~/genome_analysis/data/RNA_raw_data/${name}_2.fastq.gz \
 ~/genome_analysis/analyses/04_rna_preprocessing/02-trimmomatic/$name.1P.fastq.gz \
