@@ -1,9 +1,10 @@
 module load bioinfo-tools blast
 
-blastn -query ~/genome_analysis/analyses/01_genome_assembly/01-lfts-pacbio/lfts.contigs.fasta \
--subject ~/genome_analysis/analyses/06_comparison/01_blastn/ml04.fna \
--out ~/genome_analysis/analyses/06_comparison/01_blastn/lfts_ml04.txt
+cd ~/genome_analysis/analyses/06_comparison/01-blastn/
 
-blastn -query ~/genome_analysis/analyses/01_genome_assembly/01-lfts-pacbio/lfts.contigs.fasta \
--subject ~/genome_analysis/analyses/06_comparison/01_blastn/ysk.fna \
--out ~/genome_analysis/analyses/06_comparison/01_blastn/lfts_ysk.txt
+makeblastdb -in lfts.fasta -out lfts -dbtype nucl
+blastn -query ml04.fna -out lfts_ml04.crunch -db lfts -outfmt 6
+blastn -query ysk.fna -out lfts_ysk.crunch -db lfts -outfmt 6
+
+module load artemis
+act
