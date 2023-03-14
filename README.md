@@ -1,5 +1,9 @@
 # Genome Analysis
+
+Genome analysis labs.
+
 ## GitHub Wiki
+
 - [Project plan](https://github.com/yuanx749/genome_analysis/wiki/Project-plan)
 - [Analyses](https://github.com/yuanx749/genome_analysis/wiki/Analyses)
   - [Assembly](https://github.com/yuanx749/genome_analysis/wiki/Assembly)
