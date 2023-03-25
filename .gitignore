@@ -1,2 +1,6 @@
 analyses/
 data/
+
+_build/
+.vscode/
+conf.py

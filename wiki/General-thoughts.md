@@ -1,0 +1,6 @@
+# General thoughts
+In this project, I chose paper 3 mainly because I think the research in this paper is closest to applications among the 5 papers. As a consequence of the relative simple structure of prokaryotic genome and smaller size of raw data, it is not hard to reproduce the work of the original paper and achieve results with high level of agreement. Nevertheless, valuable experiences and lessons are acquired as below.
+- Understand the raw data. Their types, sources and techniques generating the data determine the choices and settings of software.
+- Manage time and space with moderate fault tolerance. Analyses such as assembly and mapping which require long computation hours or large disk storage should be focused in plan and implementations. Other analyses can be more flexible.
+- Read documentations thoroughly and carefully in order to use the appropriate commands and options which accommodate the input and output data.
+- Test the code locally with small dataset before submitting the jobs to avoid failure and waste of resource.
